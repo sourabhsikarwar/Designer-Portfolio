@@ -48,10 +48,14 @@ html,body{
 /* icons */
 
 .service i{
+    width: 4.5rem;
+    height: 4.5rem;
     background-color: #006eff;
     border-radius: 50%;
     color: #ffffff;
-    padding: 12%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-size: 25px;
 }
 
@@ -59,7 +63,7 @@ html,body{
     background-color: hsl(213, 100%, 92%);
     border-radius: 50%;
     color: #006eff;
-    padding: 6%;
+    padding: 1rem;
     font-size: 15px;
 }
 
@@ -69,9 +73,13 @@ html,body{
 }
 
 .contact i{
+    width: 3.5rem;
+    height: 3.5rem;
     border-radius: 50%;
     color: #ffffff;
-    padding: 8%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-size: 22px;
 }
 
