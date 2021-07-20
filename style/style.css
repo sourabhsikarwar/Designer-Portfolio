@@ -230,6 +230,9 @@ html,body{
     .navbar .m-media{
         margin: 14px 0 !important;
     }
+    .navbar .dropdown-menu {
+        min-width: 14rem !important;
+    }
 }
 
 /* // Small devices (landscape phones, less than 768px) */
