@@ -49,7 +49,7 @@ html,body{
 
 .service i{
     background-color: #006eff;
-    border-radius: 100%;
+    border-radius: 50%;
     color: #ffffff;
     padding: 12%;
     font-size: 25px;
@@ -57,7 +57,7 @@ html,body{
 
 .doc-menu i{
     background-color: hsl(213, 100%, 92%);
-    border-radius: 100%;
+    border-radius: 50%;
     color: #006eff;
     padding: 6%;
     font-size: 15px;
@@ -69,7 +69,7 @@ html,body{
 }
 
 .contact i{
-    border-radius: 100%;
+    border-radius: 50%;
     color: #ffffff;
     padding: 8%;
     font-size: 22px;
